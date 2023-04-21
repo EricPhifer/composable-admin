@@ -37,7 +37,7 @@ export default {
             description: 'The three most important or highest draw points about your business to your customers',
         },
         {
-            name: 'footerotwo',
+            name: 'footertwo',
             title: 'Second Hero Footer',
             type: 'string',
             description: 'The three most important or highest draw points about your business to your customers',
