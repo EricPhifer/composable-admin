@@ -31,6 +31,11 @@ export default {
           type: 'string',
         },
         {
+          name: 'source',
+          title: 'Credit to the Creator or Owner of the Image',
+          type: 'string',
+        },
+        {
             name: 'footerone',
             title: 'First Hero Footer',
             type: 'string',

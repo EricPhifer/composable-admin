@@ -25,6 +25,11 @@ export default {
         type: 'string' 
       },
       {
+        name: 'source',
+        title: 'Credit to the Creator or Owner of the Image',
+        type: 'string',
+      },
+      {
         name: 'navlinks',
         title: 'Navigation Links to Sections of the Page',
         type: 'array',

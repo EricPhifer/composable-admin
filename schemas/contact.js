@@ -30,6 +30,11 @@ export default {
           title: 'Alternative Text for Image',
           type: 'string',
         },
+        {
+          name: 'source',
+          title: 'Credit to the Creator or Owner of the Image',
+          type: 'string',
+        },
     ],
     preview: {
         select: {
