@@ -7,6 +7,8 @@ import logos from './logos'
 import navigation from './navigation'
 import reviews from './reviews'
 import section from './section'
+import privacyPolicy from './privacyPolicy'
+import termsConditions from './termsConditions'
 import PageLinks from '../components/PageLinks'
 
 export const schemaTypes = [
@@ -19,5 +21,7 @@ export const schemaTypes = [
     navigation,
     reviews,
     section,
+    privacyPolicy,
+    termsConditions,
     PageLinks
 ]
